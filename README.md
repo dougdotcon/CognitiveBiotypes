@@ -3,7 +3,7 @@
 ![Methodology](https://img.shields.io/badge/Methodology-Physics_Simulation-green?style=for-the-badge)
 ![Discipline](https://img.shields.io/badge/Discipline-Neuroscience_x_Physics-orange?style=for-the-badge)
 
-# DEPRESS-ANALIST: Entropic Psychiatry & Cognitive Biotypes
+# Entropic Psychiatry & Cognitive Biotypes
 
 ## 🎯 Project Objective
 
