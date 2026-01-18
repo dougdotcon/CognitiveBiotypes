@@ -2,7 +2,12 @@
 
 This directory contains research papers, profiles, and articles related to depression, biotypes, and precision mental health, largely focusing on work from Stanford University and related studies.
 
-## Research Papers & Articles
+## Directory Structure
+
+* **`research/`**: Contains academic papers, articles, and studies.
+* **`profiles/`**: Contains professional profiles of researchers.
+
+## Research Papers & Articles (`research/`)
 
 ### Depression Biotypes & Precision Medicine
 
@@ -51,7 +56,7 @@ This directory contains research papers, profiles, and articles related to depre
   * *Title*: "Falando sobre depressão para combater o estigma"
   * *Topic*: Article about overcoming stigma in mental health.
 
-## Profiles (Stanford University)
+## Profiles (`profiles/`)
 
 * **`stanford_profile_leanne_williams.txt`**: Leanne Williams, PhD - Director of Stanford Center for Precision Mental Health and Wellness.
 * **`stanford_profile_laura_michele_hack.txt`**: Laura Michele Hack, MD, PhD - Director of Precision Neurotherapeutics.
